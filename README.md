@@ -16,7 +16,7 @@
 
 ### **Process:**
 
-1. Data was already cleaned because got the actuall Excel data from HR, just need to do the transformation through Power Query.
+1. Data was already cleaned because got the actuall Excel data from HR, just need to perfrom transformation through Power Query.
 
 2. Python Analysis and Visualization.
 
