@@ -3,7 +3,7 @@
 
 <img width="578" alt="Dashboard" src="https://user-images.githubusercontent.com/104248739/189993441-0294939a-5346-48f3-ad38-f80a0f594f56.png">
 
-### **Stroy Line:** 
+### **Story Line:** 
 
 1. Trend of Work From Home (WFH).
 
@@ -15,10 +15,10 @@
 
 ### **Process:**
 
-1. Data was already cleaned because got the actuall Excel data from HR, just need to perfrom transformation through Power Query.
+1. Data was already cleaned because got the actuall Excel data from HR, just need to perform transformation through Power Query.
 
 2. Python Analysis and Visualization.
 
-3. Tranformation of Table through DAX language.
+3. Transformation of Table through DAX language.
 
 4. Dashboard creation.
