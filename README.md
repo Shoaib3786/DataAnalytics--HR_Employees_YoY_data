@@ -1,5 +1,4 @@
-# Data_Analytics_Project-03
-## HR Data analysis
+## HR Employees Data analysis
 
 <img width="578" alt="Dashboard" src="https://user-images.githubusercontent.com/104248739/189993441-0294939a-5346-48f3-ad38-f80a0f594f56.png">
 
